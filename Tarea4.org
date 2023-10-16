@@ -1,0 +1,61 @@
+* Desarrollo de Interfaces - Plataformas disponibles para el desarrollo
+  El objetivo de esta praćtica es conocer las plataformas disponibles para el desarrollo de aplicaciones multiplataforma.
+  
+** Android
+   Google utiliza [[https://developer.android.com/studio][Android Studio]] como principal herramienta de desarrollo.
+
+** Microsoft (Windows)
+   La herramienta principal de desarrollo de aplicaciones en Windows es [[https://visualstudio.microsoft.com/es/][Visual Studio]]. 
+
+** Apple (OSX, iOS, iPadOS)
+   Apple ofrece un SDK (kit de desarrollo de software) basado en el lenguaje [[https://developer.apple.com/swift/][Swift]]. La herramienta principal de desarrollo de Apple es [[https://developer.apple.com/xcode/][Xcode]].
+
+** GNU/Linux
+   Dada la naturaleza abierta del ecosistema GNU/Linux, existen multitud de tecnologías para crear aplicaciones en GNU/Linux. Como ejemplo de las más utilizadas veremos las expuestas en la sección /Multiplataforma (escritorio)/.
+
+
+
+
+** Multiplataforma (escritorio)
+   Existen multitud de tecnologías para desarrollar aplicaciones multiplataforma para escritorio. Las aplicaciones desarrolladas con estas tecnologías permitirán crear aplicaciones que funcionen en Windows, Mac OS X y GNU/Linux. Algunas de las más populares son:
+   
+  - [[https://dotnet.microsoft.com/][.NET framework]]
+  - [[https://www.electronjs.org/][ElectronJS]]
+  - [[https://www.tcl.tk/][Tk]]
+  - [[https://www.qt.io/product/development-tools][Qt (Qt creator)]]
+  - [[https://www.gtk.org/][GTK]]
+  - [[https://www.wxwidgets.org/][WxWidgets]]
+
+** Multiplataforma (móvil + escritorio)
+   Recientemente se han desarrollado un gran número de tecnologías que permiten desarrollar aplicaciones completamente multiplataforma (escritorio + móvil). Algunas de las más populares son:
+
+  - [[https://flutter.dev/][Flutter]]
+  - [[https://reactnative.dev/][React Native]]
+    
+** Aplicaciones basadas en web (Progressive Web Apps)
+   Por último, dada la gran popularidad de las aplicaciones web, existe la posibilidad de *simular aplicaciones nativas a partir de aplicaciones web*. Son las denominadas *Progressive Web Apps*, o *PWA* (/Aplicaciones Web Progresivas/). Algunas de las tecnologías que permiten esta funcionalidad son:
+
+  - [[https://angular.io/][Angular]]
+  - [[https://es.reactjs.org/][React]]
+  - [[https://ionicframework.com/][Ionic]]
+  - [[https://nativescript.org/][NativeScript]]
+    
+** Tareas a realizar
+   *Investiga* en Internet acerca de cada una de las *tecnologías* que se han indicado. Haz una *tabla* en la que se comparen las siguientes características:
+   
+   - Multiplataforma móvil + escritorio (sí / no)
+   - Interfaz de usuario nativa (sí / no)
+   - Lenguajes de programación soportados
+   - Gratuito (sí / no)
+   - Rapidez de ejecución (baja / media / alta)
+   - Soporte de la comunidad y documentación (malo / bueno)
+   - Popularidad (número de desarrolladores) (baja / media / alta)
+   - Adecuada para aplicaciones complejas (sí / no)
+     
+** Formato de la entrega
+ - Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal en DI-23-24-classroom de GitHub.
+ - Dicho repositorio se creará automáticamente al hacer clic en el enlace de esta práctica y aceptar la tarea (/assignment/).
+ - Todos los archivos de la práctica se guardarán en el repositorio y se subirán a GitHub.
+ - Para crear la tabla comparativa se podrá utilizar cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
+
+
